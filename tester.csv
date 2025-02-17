@@ -1,0 +1,3 @@
+Instance Name,CPU,Memory,Max CPU%,Max Memory %,Target CPU,Target Memory
+gringotts-preprod-v2-downgrade-automation,2,8,5,5,1,4
+gringotts-preprod-v2-downgrade-automation-clone,2,8,13,8,2,4
