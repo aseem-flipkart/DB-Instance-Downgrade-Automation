@@ -1,7 +1,6 @@
 import pandas as pd
 from googleapiclient.discovery import build
 from google.auth import default
-import os
 
 def modify_cloudsql_instance(project_id, instance_name, cpu=None, memory=None):
     creds, _ = default()  # use default credentials saved while setting up gcloud CLI
